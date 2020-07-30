@@ -10,7 +10,8 @@
 
 [<img align="left" alt="codeSTACKr.com" height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | LinkedIn" height="22px" src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504925.svg" />][Medium]
+[<img align="left" alt="medium" height="22px" src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504925.svg" />][medium]
+
 ---
 <br />
 
@@ -69,4 +70,4 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[Medium]: https://medium.com/@skumarr53
+[medium]: https://medium.com/@skumarr53
