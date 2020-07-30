@@ -10,13 +10,14 @@
 
 [<img align="left" alt="codeSTACKr.com" height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | LinkedIn" height="22px" src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504925.svg" />][medium]
-
+[<img align="left" alt="codeSTACKr | LinkedIn" height="22px" src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504925.svg" />][Medium]
+---
 <br />
 
 ### Languages and Tools:
 
 <img align="left" alt="python" height="26px" src="https://f1.pngfuel.com/png/835/530/416/python-logo-programming-language-computer-programming-python-programming-basics-for-absolute-beginners-scripting-language-source-code-php-code-climate-inc-png-clip-art-thumbnail.png" />
+<img align="left" alt="selenium" height="26px" src="https://cdn.worldvectorlogo.com/logos/selenium-logo.svg"/>
 <img align="left" alt="sklearn" height="26px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"/>
 <img align="left" alt="pytorch" height="26px" src="https://www.clipartmax.com/png/middle/322-3225839_tnt-pytorch-machine-learning-logo.png"/>
 <img align="left" alt="Fastai" height="26px" src="https://buzz-prod-photos.global.ssl.fastly.net/img/87a50dce-a64d-4747-b152-30f2f13e80ef"/>
@@ -41,6 +42,10 @@
 <br />
 
 ---
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
