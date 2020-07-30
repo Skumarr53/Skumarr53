@@ -8,9 +8,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="medium" height="22px" src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504925.svg" />][medium]
+[<img align="left" alt="herokum blog" height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="medium" height="22px" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" />][medium]
 
 ---
 <br />
@@ -53,17 +53,9 @@
 - [A beginner’s guide to  Time Series Analysis](https://medium.com/@skumarr53/a-beginners-guide-to-time-series-analysis-411d8baaccc6?source=rss-331533054e18------2)
 <!-- BLOG-POST-LIST:END -->
 
-
-### 📕 Latest Blogs
-- [Principal Component Analysis: In-depth understanding through image visualization](https://towardsdatascience.com/principal-component-analysis-in-depth-understanding-through-image-visualization-892922f77d9f)
-- [Designing an interactive web application to deploy the ML model using flask](https://medium.com/@skumarr53/designing-an-interactive-web-application-to-deploy-the-ml-model-using-flask-9fef575600d2)
-- [Deploy Machine learning Flask app using ElasticBeanStalk service on AWS](https://medium.com/@skumarr53/deploy-machine-learning-app-using-elasticbeanstalk-service-on-aws-849c89745111)
-- [Building a web crawler in python that scrapes stock fundamentals](https://medium.com/datadriveninvestor/build-a-web-crawler-that-scrapes-stock-fundamentals-in-python-e2d4af56398)
-- [How to use Selenium as life-saver when dealing with boring tasks](https://towardsdatascience.com/how-to-use-selenium-as-life-saver-when-dealing-with-boring-tasks-ca264d1ce88)
-
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Skumarr53's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Skumarr53&show_icons=true&hide_border=true" />
 
 [website]: https://skumar-djangoblog.herokuapp.com/
 [twitter]: https://twitter.com/codeSTACKr
