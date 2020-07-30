@@ -48,14 +48,12 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
+### 📕 Latest Blogs
 - [Principal Component Analysis: In-depth understanding through image visualization](https://towardsdatascience.com/principal-component-analysis-in-depth-understanding-through-image-visualization-892922f77d9f)
 - [Designing an interactive web application to deploy the ML model using flask](https://medium.com/@skumarr53/designing-an-interactive-web-application-to-deploy-the-ml-model-using-flask-9fef575600d2)
 - [Deploy Machine learning Flask app using ElasticBeanStalk service on AWS](https://medium.com/@skumarr53/deploy-machine-learning-app-using-elasticbeanstalk-service-on-aws-849c89745111)
 - [Building a web crawler in python that scrapes stock fundamentals](https://medium.com/datadriveninvestor/build-a-web-crawler-that-scrapes-stock-fundamentals-in-python-e2d4af56398)
 - [How to use Selenium as life-saver when dealing with boring tasks](https://towardsdatascience.com/how-to-use-selenium-as-life-saver-when-dealing-with-boring-tasks-ca264d1ce88)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
