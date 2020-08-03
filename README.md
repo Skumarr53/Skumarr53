@@ -1,15 +1,12 @@
 ## About Me
 
-I am Santhosh Kumar, a Research Engineer with three years of experience in Flood modeling, who discovered his passion for machine learning, particularly in Deep Learning.
+Hi there, I'm Santhosh Kumar, a Research Engineer with three years of experience in Flood modeling, who discovered his passion for machine learning, particularly in Deep Learning.
 
 I’m a strong believer in self-learning and as my interest in is the field, I decided to quit my regular job in October 2019 and dedicate time and energy fully into it since then. I took a couple of online courses to know inside out about this field. Andrew NG's 'Machine Learning' offered by Coursera and Jeremy Howard's 'Deep Learning for Coders' from Fastai are notable among them.
 
 My areas of interests include Web development, Natural Language Processing, Computer Vision, and Machine Learning.
 
 In my free time, I like reading books, learning new things (mostly related to technology), Blogging, and solo traveling to unexplored places.
-
-
-### Hi there, I'm Santhosh
 
 ## I'm a Self-taught Data Scientist and ready to make my mark in AI
 - 🔭 I’m currently working on a Automated trading!
