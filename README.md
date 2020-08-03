@@ -61,11 +61,11 @@ In my free time, I like reading books, learning new things (mostly related to te
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Neural Machine Translation: Demystifying Transformer Architecture](https://medium.com/swlh/neural-machine-translation-demystifying-transformer-architecture-4cb230ca1a67?source=rss-331533054e18------2)
 - [Designing an interactive web application to deploy the ML model using flask](https://medium.com/@skumarr53/designing-an-interactive-web-application-to-deploy-the-ml-model-using-flask-9fef575600d2?source=rss-331533054e18------2)
 - [Deploy Machine learning app using ElasticBeanStalk service on AWS](https://medium.com/@skumarr53/deploy-machine-learning-app-using-elasticbeanstalk-service-on-aws-849c89745111?source=rss-331533054e18------2)
 - [Setting up python+jupyter+spark integrated environment in AWS EC2 instance](https://medium.com/@skumarr53/setting-up-python-jupyter-spark-integrated-environment-in-aws-ec2-instance-6dfd93a85c84?source=rss-331533054e18------2)
 - [Building a web crawler in python that scrapes stock fundamentals](https://medium.com/datadriveninvestor/build-a-web-crawler-that-scrapes-stock-fundamentals-in-python-e2d4af56398?source=rss-331533054e18------2)
-- [A beginner’s guide to  Time Series Analysis](https://medium.com/@skumarr53/a-beginners-guide-to-time-series-analysis-411d8baaccc6?source=rss-331533054e18------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
