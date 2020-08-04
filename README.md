@@ -4,7 +4,7 @@ Hi there, I'm Santhosh Kumar, a Research Engineer with three years of experience
 
 I’m a strong believer in self-learning and as my interest in is the field, I decided to quit my regular job in October 2019 and dedicate time and energy fully into it since then. I took a couple of online courses to know inside out about this field. Andrew NG's 'Machine Learning' offered by Coursera and Jeremy Howard's 'Deep Learning for Coders' from Fastai are notable among them.
 
-My areas of interests include Web development, Natural Language Processing, Computer Vision, and Machine Learning.
+My areas of interests include Natural Language Processing, Computer Vision, and Machine Learning.
 
 In my free time, I like reading books, learning new things (mostly related to technology), Blogging, and solo traveling to unexplored places.
 
@@ -28,8 +28,10 @@ In my free time, I like reading books, learning new things (mostly related to te
 <img align="left" alt="python" height="26px" src="https://f1.pngfuel.com/png/835/530/416/python-logo-programming-language-computer-programming-python-programming-basics-for-absolute-beginners-scripting-language-source-code-php-code-climate-inc-png-clip-art-thumbnail.png" />
 <img align="left" alt="selenium" height="26px" src="https://cdn.worldvectorlogo.com/logos/selenium-logo.svg"/>
 <img align="left" alt="sklearn" height="26px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"/>
+<img align="left" alt="Spark" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/388px-Apache_Spark_logo.svg.png" />
 <img align="left" alt="pytorch" height="26px" src="https://www.clipartmax.com/png/middle/322-3225839_tnt-pytorch-machine-learning-logo.png"/>
 <img align="left" alt="Fastai" height="26px" src="https://buzz-prod-photos.global.ssl.fastly.net/img/87a50dce-a64d-4747-b152-30f2f13e80ef"/>
+<img align="left" alt="Keras" height="26px" src="https://keras.io/img/logo.png"/>
 <img align="left" alt="HTML5" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="JQuery" height="26px" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png"/>
 <img align="left" alt="Flask" height="26px" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" />
