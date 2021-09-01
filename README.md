@@ -6,7 +6,7 @@ I’m a strong believer in self-learning and as my interest in is the field, I d
 
 It was a rather tough decision to make as everything was new to me in the beginning. I learned **Python** programming and its various libraries like Scikit-learn for building end-to-end machine learning pipeline, **PyTorch** framework for Deep learning, **Flask** for web deployment, and many more. Apart from these, I also learned web application development and hosting them on cloud platforms. I have deployed a couple of Flask applications on **AWS** and this web site of mine built using the Django framework is deployed on the **Heroku** cloud platform. In that process, I also became familiar with web development tools like HTML and JQuery.
 
-My areas of interests include Web development, Natural Language Processing, Computer Vision, and Machine Learning.
+My areas of interests include Natural Language Processing, Computer Vision and productionalizing ML models.
 
 ## I'm a Self-taught Data Scientist and ready to make my mark in AI
 - 🔭 I’m currently working on a Automated trading!
