@@ -1,13 +1,3 @@
-## About Me
-
-I am Santhosh Kumar, a Research Engineer with three years of experience in Flood modeling, who discovered his passion for machine learning, particularly in Deep Learning.
-
-I’m a strong believer in self-learning and as my interest in is the field, I decided to quit my regular job in October 2019 and dedicate time and energy fully into it since then. I took a couple of online courses to know inside out about this field. Andrew NG's 'Machine Learning' offered by Coursera and Jeremy Howard's 'Deep Learning for Coders' from **Fastai** are notable among them.
-
-It was a rather tough decision to make as everything was new to me in the beginning. I learned **Python** programming and its various libraries like Scikit-learn for building end-to-end machine learning pipeline, **PyTorch** framework for Deep learning, **Flask** for web deployment, and many more. Apart from these, I also learned web application development and hosting them on cloud platforms. I have deployed a couple of Flask applications on **AWS** and in that process, I also became familiar with web development tools like HTML and JQuery.
-
-My areas of interests include Natural Language Processing, Computer Vision and productionalizing ML models.
-
 ## I'm a Self-taught Data Scientist and ready to make my mark in AI
 - 🔭 I’m currently working on a Automated trading!
 - 🌱 I’m currently learning everything 🤣
