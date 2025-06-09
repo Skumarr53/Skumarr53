@@ -1,6 +1,6 @@
 ## I'm a Self-taught Data Scientist and ready to make my mark in AI
 - 🔭 I’m currently working on a Automated trading!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and reading 
 
